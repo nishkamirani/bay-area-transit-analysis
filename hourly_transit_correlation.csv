@@ -1,0 +1,10 @@
+hour_of_day,avg_bart_delay_mins,total_train_arrivals,muni_complaints_count
+8,4.44,15,4
+9,2.46,10,3
+10,1.64,10,2
+11,1.32,14,0
+12,1.54,11,4
+13,1.49,9,1
+20,1.47,5,0
+21,1.53,5,2
+23,1.47,5,0
